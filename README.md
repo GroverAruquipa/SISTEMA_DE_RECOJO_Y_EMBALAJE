@@ -1,2 +1,2 @@
-# SISTEMA_DE_RECOJO_Y_EMBALAJE
-En este reposotorio se encuentran los codigos de desarrollo del proyecto de grado basado en un robot delta.
+# DELTA ROBOT_AND MANUFACTURING_SYSTEMS_ PROGRAM
+This repository presents the codes from a final degree project based en in a Delta robot and a CIM control with FPGA, RTOS, Python, Labview, OPenCV
